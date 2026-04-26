@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# Blok file tidak penting
+Disallow: /admin/
+Disallow: /private/
+
 Sitemap: https://studiojasadigital.my.id/sitemap.xml
